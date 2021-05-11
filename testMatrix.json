@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/oolonek/upset_test/main/tempMatrix.csv?token=AAVB24N5HYBARETY5FZV2H3ATKNWI",
+	"name": "TestMatrix",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "structure_inchikey_2D" },
+    { "type": "string", "index": 1, "name": "structure_taxonomy_npclassifier_01pathway" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 7 }
+	]
+}
