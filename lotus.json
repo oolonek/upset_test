@@ -1,8 +1,8 @@
 {
-	"file": "https://raw.githubusercontent.com/oolonek/upset_test/main/lotus_upset.csv?token=AAVB24LQXIXQV6J7UIBNBDLATKYVM",
+	"file": "https://raw.githubusercontent.com/oolonek/upset_test/main/lotus_upset.csv?token=AAVB24LOIQ5TVXE5GA7LWVDATK3JC",
 	"name": "TestLotus",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 1, "name": "structure_inchikey" },
